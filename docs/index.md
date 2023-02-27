@@ -3,7 +3,7 @@ title: Grupo BRIET
 tags: 
   - pesquisa
 hide:
-  - navigation
+  - toc
 ---
 
 ## informações BRIET
