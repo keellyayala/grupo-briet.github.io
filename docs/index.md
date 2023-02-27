@@ -35,4 +35,4 @@ O grupo investiga o conceito de dado de pesquisa e os processos que envolvem sua
 
 
 ### Repositórios oficiais
-- [CNPQ](http://dgp.cnpq.br/dgp/espelhogrupo/5689364231308349)
+- [CNPQ - Diretório dos grupos de pesquisa no Brasil - Lattes](http://dgp.cnpq.br/dgp/espelhogrupo/5689364231308349)
