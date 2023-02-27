@@ -1,5 +1,5 @@
 --- 
-title: Agenda - Grupo BRIET
+title: Agenda
 ---
 
 ## Agenda - Grupo BRIET
