@@ -27,10 +27,12 @@ O grupo investiga o conceito de dado de pesquisa e os processos que envolvem sua
 | Telefone: | (21) 3873-9450 |
 | Contato do grupo: | luanasales@ibict.br |
 
-## Linhas de pesquisa
+### Linhas de pesquisa
 - DADOS FAIR
 - Gestão do Conhecimento Nuclear
 - Gestão e Curadoria de dados de pesquisa
 - Organização do conhecimento e recuperação da informação
 
-[CNPQ](http://dgp.cnpq.br/dgp/espelhogrupo/5689364231308349)
+
+### Repositórios oficiais
+- [CNPQ](http://dgp.cnpq.br/dgp/espelhogrupo/5689364231308349)
