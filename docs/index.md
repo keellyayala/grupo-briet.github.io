@@ -2,6 +2,7 @@
 title: BRIET
 hide:
   - toc
+  - navigation
 ---
 
 # BRIET: Biblioteconomia, Representação, Interoperabilidade, E-science e Tecnologia
