@@ -31,7 +31,7 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Trocar para modo claro
-  language: 'pt-BR'
+  language: pt-BR
   icon:
     logo: material/book-open-page-variant
     edit: material/pencil 
@@ -96,7 +96,7 @@ markdown_extensions:
   - tables
      
 plugins:
-  - search
+  - search:
       lang: pt
 # Padrão do separador de busca: separator: '[\s\-\.]+' substituído por "\s"
 #      separator: '[\s]+'
