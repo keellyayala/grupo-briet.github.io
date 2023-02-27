@@ -1,5 +1,5 @@
 ---
-title: Publicações - Grupo BRIET
+title: Publicações
 ---
 
 ## Publicações
