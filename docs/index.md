@@ -1,7 +1,6 @@
 ---
-title: Grupo BRIET
+title: BRIET
 tags: 
-  - pesquisa
 hide:
   - toc
 ---
