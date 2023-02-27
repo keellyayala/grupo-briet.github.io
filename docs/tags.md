@@ -1,5 +1,5 @@
 # Tags
 
-Segue uma lista de tags disponíveis:
+Tags disponíveis:
 
-[TAGS]tags.md
+[TAGS]
