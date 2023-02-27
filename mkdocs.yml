@@ -10,16 +10,6 @@ edit_uri: "edit/main/docs/"
 
 theme:
   name: material
-  shortcuts:
-      help: 191    # ?
-#      next: 78     # n
-#      previous: 80 # p
-      previous: 37 # ArrowLeft
-      next: 39 # ArrowRight
-#      https://keycode.info/
-#      https://www.mkdocs.org/user-guide/styling-your-docs/
-      search: 83   # s
-  # Necessary for search to work properly
   include_search_page: false
   search_index_only: true
   highlightjs: true
@@ -71,7 +61,6 @@ markdown_extensions:
   - meta
   - md_in_html
   - toc:
-#      permalink: '✈'
       permalink: '#'
   - pymdownx.arithmatex:
       generic: true
