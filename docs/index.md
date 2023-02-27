@@ -28,11 +28,11 @@ O grupo investiga o conceito de dado de pesquisa e os processos que envolvem sua
 | Contato do grupo: | [luanasales@ibict.br](mailto:luanasales@ibict.br) |
 
 ### Linhas de pesquisa
-- DADOS FAIR
-- Gestão do Conhecimento Nuclear
-- Gestão e Curadoria de dados de pesquisa
+- Gestão e curadoria de dados de pesquisa
+- Dados FAIR
 - Organização do conhecimento e recuperação da informação
+- Gestão do conhecimento nuclear
 
-
-### Repositórios oficiais
+### Repositórios
 - [CNPQ - Diretório dos grupos de pesquisa no Brasil - Lattes](http://dgp.cnpq.br/dgp/espelhogrupo/5689364231308349)
+- [Github - Repositório do Grupo BRIET](https://github.com/grupo-briet)
