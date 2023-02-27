@@ -4,9 +4,9 @@ site_author: Colaboradores BRIET
 site_description: Site do Grupo de Pesquisa BRIET.
 
 # Repository
-repo_name: Github
+repo_name: grupo-briet/site
 repo_url: https://github.com/grupo-briet/site
-edit_uri: "edit/main/docs/"
+edit_uri: edit/main/docs/
 
 theme:
   name: material
@@ -34,10 +34,13 @@ theme:
   language: 'pt-BR'
   icon:
     logo: material/book-open-page-variant
+    edit: material/pencil 
+    view: material/eye
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
   features:
+    - content.action.edit
     - navigation.footer
     - navigation.tabs
     - navigation.instant    
@@ -94,7 +97,7 @@ markdown_extensions:
      
 plugins:
   - search
-#      lang: pt
+      lang: pt
 # Padrão do separador de busca: separator: '[\s\-\.]+' substituído por "\s"
 #      separator: '[\s]+'
 # 3 já é o padrão      min_search_length: 3
