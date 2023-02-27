@@ -1,0 +1,155 @@
+site_name: Grupo BRIET
+site_url: https://grupo-briet.github.io/site
+site_author: Colaboradores BRIET
+site_description: Site do Grupo de Pesquisa BRIET.
+
+# Repository
+repo_name: Github
+repo_url: https://github.com/grupo-briet/site
+edit_uri: "edit/main/docs/"
+
+theme:
+  name: material
+  shortcuts:
+      help: 191    # ?
+#      next: 78     # n
+#      previous: 80 # p
+      previous: 37 # ArrowLeft
+      next: 39 # ArrowRight
+#      https://keycode.info/
+#      https://www.mkdocs.org/user-guide/styling-your-docs/
+      search: 83   # s
+  # Necessary for search to work properly
+  include_search_page: false
+  search_index_only: true
+  highlightjs: true
+  hljs_languages:
+    - yaml
+  sticky_navigation: true
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo        
+      toggle:
+        icon: material/weather-night
+        name: Trocar para modo escuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: light blue      
+      toggle:
+        icon: material/weather-sunny
+        name: Trocar para modo claro
+  language: 'pt-BR'
+  icon:
+    logo: material/book-open-page-variant
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  features:
+    - navigation.footer
+    - navigation.tabs
+    - navigation.instant    
+#    - navigation.expand
+#    - navigation.top
+#    - navigation.sections
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - search.share
+# 404 page
+  static_templates:
+    - 404.html
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - toc:
+#      permalink: '✈'
+      permalink: '#'
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:materialx.emoji.twemoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys      
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: gabrielmacedoanac
+      repo: sardoc
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+        - name: vegalite
+          class: vegalite
+          format: !!python/name:mkdocs_charts_plugin.fences.fence_vegalite  
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - tables
+     
+plugins:
+  - search
+#      lang: pt
+# Padrão do separador de busca: separator: '[\s\-\.]+' substituído por "\s"
+#      separator: '[\s]+'
+# 3 já é o padrão      min_search_length: 3
+  - git-revision-date
+  - charts
+  - macros
+  - mermaid2:
+      arguments:
+        securityLevel: 'loose'      
+        theme: |
+            ^(window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) ? 'dark' : 'light'
+  - tags:
+      tags_file: tags.md
+  - minify:
+      minify_html: true
+
+
+#extra:
+#  disqus: sardoc
+#  analytics:
+#    provider: google
+#    property: G-V7P0PR3LM2
+#    feedback:
+#      title: Esta página foi útil?
+#      ratings:
+#        - icon: material/emoticon-happy-outline
+#          name: Essa página está boa!
+#          data: 1
+#          note: >-
+#            Obrigado pelo seu feedback!
+#        - icon: material/emoticon-sad-outline
+#          name: Essa página deve ser melhorada!
+#          data: 0
+#          note: >- 
+#            Obrigado pelo seu feedback! Nos ajude a melhorar essa página
+#            preenchendo nosso <a href="..." target="_blank" rel="noopener">formulário de feedback</a>.    
+    
+
+extra_javascript:
+  - https://unpkg.com/mermaid/dist/mermaid.min.js
+  - https://cdn.jsdelivr.net/npm/vega@5
+  - https://cdn.jsdelivr.net/npm/vega-lite@5
+  - https://cdn.jsdelivr.net/npm/vega-embed@6
