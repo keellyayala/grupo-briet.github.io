@@ -5,6 +5,7 @@ O grupo investiga o conceito de dado de pesquisa e os processos que envolvem sua
 
 ## Identificação
 
+| | |
 | --- | --- |
 | Situação do grupo:	| Certificado |
 | Ano de formação:	| 2017 |
