@@ -1,6 +1,6 @@
 site_name: BRIET
 site_url: https://grupo-briet.github.io/site
-site_author: Colaboradores BRIET
+site_author: Colaboradores do Grupo BRIET
 site_description: Site do Grupo de Pesquisa BRIET.
 
 # Repository
@@ -19,8 +19,8 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: indigo        
+      primary: orange
+      accent: orange        
       toggle:
         icon: material/weather-night
         name: Trocar para modo escuro
