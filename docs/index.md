@@ -23,7 +23,7 @@ O grupo investiga o conceito de dado de pesquisa e os processos que envolvem sua
 | Área predominante: | Ciências Sociais Aplicadas; Ciência da Informação |
 | Instituição do grupo: | Instituto Brasileiro de Informação em Ciência e Tecnologia - IBICT |
 | Unidade: | Departamento de Ensino e Pesquisa |
-| Telefone: | (21) 3873-9450 |
+| Telefone: | +552138739450 |
 | Contato do grupo: | [luanasales@ibict.br](mailto:luanasales@ibict.br) |
 
 ### Linhas de pesquisa
