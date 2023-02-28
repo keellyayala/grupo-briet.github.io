@@ -19,7 +19,7 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: orange
+      primary: teal
       accent: orange        
       toggle:
         icon: material/weather-night
@@ -33,7 +33,8 @@ theme:
         name: Trocar para modo claro
   language: pt-BR
   icon:
-    logo: material/book-open-page-variant
+#    logo: material/book-open-page-variant
+    logo: material/alpha-b-box
     edit: material/pencil 
     view: material/eye
   font:
