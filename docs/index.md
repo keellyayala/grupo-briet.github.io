@@ -5,6 +5,22 @@ hide:
   - navigation
 ---
 
+  <!-- Hero for landing page -->
+  <section class="mdx-container">
+    <div class="md-grid md-typeset">
+      <div class="mdx-hero">
+
+        <!-- Hero image -->
+        <div class="mdx-hero__image">
+          <img
+            src="briet.png"
+            alt=""
+            width="1659"
+            height="1200"
+            draggable="false"
+          >
+        </div>
+
 # BRIET: Biblioteconomia, Representação, Interoperabilidade, E-science e Tecnologia
 
 O grupo investiga o conceito de dado de pesquisa e os processos que envolvem sua transformação em informação e conhecimento científico. Estuda os cenários que dão origem à geração, uso e compartilhamento intensivos de dados: eScience, Ciência Aberta, simulação, big data científico versus cauda longa da ciência e que possibilitam o seu reuso para fins de geração de novos conhecimentos, Estuda ainda tecnologias e ferramentas que possibilitam a gestão, a organização, a curadoria, a representação, a encontrabilidade, o acesso, a interoperabilidae e o reuso de dados e informações técnicos-científicas.
