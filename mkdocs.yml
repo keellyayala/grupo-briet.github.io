@@ -137,12 +137,14 @@ extra:
 #            Obrigado pelo seu feedback! Nos ajude a melhorar essa página
 #            preenchendo nosso <a href="..." target="_blank" rel="noopener">formulário de feedback</a>.    
   social:
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCwbvIl-TSZOSritOESaukQQ
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/grupobriet
     - icon: fontawesome/brands/github
       link: https://grupo-briet.github.io/
-    - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/people/GRUPO-de-pesquisa-BRIET/100076347663252/
+#    - icon: fontawesome/brands/facebook
+#      link: https://www.facebook.com/people/GRUPO-de-pesquisa-BRIET/100076347663252/
       
 
 extra_javascript:
