@@ -2,7 +2,6 @@
 title: Eventos
 hide:
   - toc
-  - title
 ---
 
 ## Seminários
