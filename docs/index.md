@@ -5,16 +5,7 @@ hide:
   - navigation
 ---
 
-        <!-- Hero image -->
-        <div class="mdx-hero__image">
-          <img
-            src="briet.png"
-            alt=""
-            width="1659"
-            height="1200"
-            draggable="false"
-          >
-        </div>
+![BRIET](briet.png){ width="600", loading=lazy, align=center }
 
 # BRIET: Biblioteconomia, Representação, Interoperabilidade, E-science e Tecnologia
 
