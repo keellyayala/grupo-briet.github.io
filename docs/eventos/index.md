@@ -1,5 +1,5 @@
 ---
-tilte: Eventos
+title: Eventos
 hide:
   - toc
 ---
