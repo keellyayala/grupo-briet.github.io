@@ -1,3 +1,4 @@
+![BRIET](/docs/briet.png)
 
 # BRIET: Biblioteconomia, Representação, Interoperabilidade, E-science e Tecnologia
 
