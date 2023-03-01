@@ -113,6 +113,7 @@ plugins:
             ^(window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) ? 'dark' : 'light'
   - tags:
       tags_file: tags.md
+  - social
   - minify:
       minify_html: true
 
