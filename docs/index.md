@@ -5,11 +5,6 @@ hide:
   - navigation
 ---
 
-  <!-- Hero for landing page -->
-  <section class="mdx-container">
-    <div class="md-grid md-typeset">
-      <div class="mdx-hero">
-
         <!-- Hero image -->
         <div class="mdx-hero__image">
           <img
