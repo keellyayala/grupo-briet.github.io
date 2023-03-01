@@ -36,3 +36,4 @@ O grupo investiga o conceito de dado de pesquisa e os processos que envolvem sua
 ### Repositórios
 - [CNPQ - Diretório dos grupos de pesquisa no Brasil - Lattes](http://dgp.cnpq.br/dgp/espelhogrupo/5689364231308349)
 - [Github - Repositório do Grupo BRIET](https://github.com/grupo-briet)
+- [Youtube - Canal do Grupo BRIET](https://www.youtube.com/channel/UCwbvIl-TSZOSritOESaukQQ)
