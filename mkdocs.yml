@@ -136,7 +136,11 @@ extra:
 #          note: >- 
 #            Obrigado pelo seu feedback! Nos ajude a melhorar essa página
 #            preenchendo nosso <a href="..." target="_blank" rel="noopener">formulário de feedback</a>.    
-    
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/grupobriet
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/people/GRUPO-de-pesquisa-BRIET/100076347663252/
 
 extra_javascript:
   - https://unpkg.com/mermaid/dist/mermaid.min.js
