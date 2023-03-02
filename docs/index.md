@@ -12,11 +12,10 @@ O grupo investiga o conceito de dado de pesquisa e os processos que envolvem sua
 
 ## Informações BRIET
 
-### Identificação
+### Identificação CNPQ
 
-| | |
-| --- | --- |
 | Situação do grupo: | Certificado |
+| --- | --- |
 | Ano de formação: | 2017 |
 | Data da Situação: | 11/12/2017 13:59 |
 | Data do último envio: | 23/05/2022 17:50 |
