@@ -18,6 +18,6 @@ hide:
 
 ### IMAGEM, VIDEO E LINK
 
-
+Luana precisa colocar link e imagem
 
 
