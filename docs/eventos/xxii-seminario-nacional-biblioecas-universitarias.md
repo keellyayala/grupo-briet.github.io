@@ -1,5 +1,8 @@
 ---
 title: "XXII Seminário Nacional de Bibliotecas Universitárias"
+tags: 
+  - 2023
+  - seminário
 ---
 
 
