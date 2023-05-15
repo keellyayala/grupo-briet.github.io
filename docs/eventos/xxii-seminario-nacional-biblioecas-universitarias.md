@@ -1,6 +1,15 @@
+---
+title: "XXII Seminário Nacional de Bibliotecas Universitárias"
+tags: 
+  - seminário
+  - 2023
+---
+
+
 Bibliotecas e sustentabilidade: inovação, ciência e sociedade
 
 ![image](https://github.com/grupo-briet/grupo-briet.github.io/assets/126488864/fc6b0dab-237f-427c-82f2-70daedc29a30)
+
 Realizado desde 1978, o Seminário Nacional de Bibliotecas Universitárias chega em sua 22ª edição com o tema “Bibliotecas e sustentabilidade: inovação, ciência e sociedade”, sob organização da Biblioteca Universitária da Universidade Federal de Santa Catarina (BU UFSC) e da Federação Brasileira de Associações de Bibliotecários, Cientistas da Informação e Instituições (FEBAB). O evento acontecerá em Florianópolis, no CentroSul, de 28/11 a 01/12.
 
 Bibliotecas universitárias devem se inserir ativamente nas discussões acerca do desenvolvimento sustentável, promovendo o seu protagonismo ativo, dinâmico e flexível e se engajando continuamente em práticas, serviços e ações norteadas para o desenvolvimento sustentável. Este alinhamento incorpora-se ao que preconiza a Agenda 2030 e seus Objetivos de Desenvolvimento Sustentável, que entraram na pauta da Biblioteconomia brasileira em 2016.
