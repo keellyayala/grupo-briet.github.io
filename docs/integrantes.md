@@ -1,10 +1,10 @@
 ---
-title: Integrantes do grupo BRIET
+title: Integrantes
 hide: 
   - navigation
 ---
 
-# Integrantes
+# Integrantes do grupo BRIET
 
 ## Doutorado
 | **Nome** | **Atuação** | **Instituição** |
