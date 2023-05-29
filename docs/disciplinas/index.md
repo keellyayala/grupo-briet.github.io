@@ -1,5 +1,7 @@
 ---
 title: Disciplinas 
+hide:
+  - navigation
 ---
 
 # Disciplinas
