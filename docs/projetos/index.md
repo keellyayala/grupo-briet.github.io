@@ -6,7 +6,7 @@ hide:
 
 # Projetos
 
-## Em andamento
+## Projetos em andamento
 
 ### 2022 - Atual  - Gestão de dados de pesquisa FAIR: uma proposta de modelo para aceleração das pesquisas científicas no estado do Rio de Janeiro
 
@@ -27,7 +27,7 @@ Descrição: A pesquisa científica contemporânea produz e utiliza uma quantida
 REVELANDO O LADO INVISÍVEL DA PESQUISA CIENTÍFICA: ESTUDO SOBRE OS OBSTÁCULOS NO ACESSO, COMPARTILHAMENTO
 
 
-## Encerrados
+## Projetos encerrados
 
 ### 2017 - 2019 - REPOSITÓRIO DIGITAL CONFIÁVEL PARA DADOS DE PESQUISA NUCLEAR
 
