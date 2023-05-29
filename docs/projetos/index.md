@@ -1,5 +1,7 @@
 ---
 title: Projetos
+hide:
+  - navigation
 ---
 
 # Projetos
