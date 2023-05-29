@@ -1,5 +1,7 @@
 ---
 title: Eventos
+hide:
+  - navigation
 ---
 
 # Eventos
