@@ -1,5 +1,7 @@
 ---
 title: Integrantes do grupo BRIET
+hide: 
+  - navigation
 ---
 
 # Integrantes
