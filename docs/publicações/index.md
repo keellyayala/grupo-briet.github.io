@@ -1,5 +1,7 @@
 ---
 title: Publicações
+hide:
+  - navigation
 ---
 
 # Publicações
