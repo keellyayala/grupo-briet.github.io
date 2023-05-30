@@ -33,7 +33,7 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
-      accent: light green      
+      accent: light blue      
       toggle:
         icon: material/weather-sunny
         name: Trocar para modo claro
