@@ -1,6 +1,7 @@
 ---
 title: Integrantes
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
 # Integrantes do grupo BRIET
 
@@ -8,7 +9,7 @@ title: Integrantes
 | **Nome** | **Atuação** | **Instituição** |
 |---|---|---|
 | **Luana Farias Sales** [:simple-orcid:](http://orcid.org/0000-0002-3614-2356) [![lattes](http://buscatextual.cnpq.br/buscatextual/images/v2/icone_lattes.png)](http://lattes.cnpq.br/9090064478702633) | Coordenação | PPGCI - IBICT 
-| **Luís Fernando Sayão** [:simple-orcid:](https://orcid.org/0000-0002-6970-0553) [![lattes](http://buscatextual.cnpq.br/buscatextual/images/v2/icone_lattes.png)](http://lattes.cnpq.br/3422623122948389) | Coordenação | CNEN - IBICT |
+| **Luís Fernando Sayão** [:simple-orcid:](https://orcid.org/0000-0002-6970-0553) [:ai-lattes:](http://lattes.cnpq.br/3422623122948389) | Coordenação | CNEN - IBICT |
 
 ## Doutorado
 | **Nome** | **Atuação** | **Instituição** |
