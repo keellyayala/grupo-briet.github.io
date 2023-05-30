@@ -12,11 +12,11 @@ title: Eventos
 
 O Grupo de Pesquisa Biblioteconomia, Recuperação de Informação, E-Science e Tecnologias (BRIET) do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) promove o Segundo Seminário Internacional do Grupo BRIET – 2023, entre os dias 30 e 31 deste mês.
 
-Otema deste ano será: “A Representação do Conhecimento e as Novas Formas de Comunicação Científica: Interlocuções Necessárias”. 
+O tema deste ano será: “A Representação do Conhecimento e as Novas Formas de Comunicação Científica: Interlocuções Necessárias”. 
 
-O evento é gratuito e para participar, basta acessar o endereço: https://www.youtube.com/@grupobriet2538.
-
-Os Certificados serão emitidos para quem fizer inscrição no link: https://docs.google.com/forms/d/e/1FAIpQLSdYUeVOEWwReM3gRViBpTBeWj0cuoz455H0rVp0JfYotU7dQw/viewform
+> O evento é gratuito e para participar basta acessar o canal do [BRIET no youtube](https://www.youtube.com/@grupobriet2538)
+> 
+> Os Certificados serão emitidos para quem [fizer a inscrição online](https://docs.google.com/forms/d/e/1FAIpQLSdYUeVOEWwReM3gRViBpTBeWj0cuoz455H0rVp0JfYotU7dQw/viewform)
 
 O encontro é organizado pelo grupo e tem como objetivo interagir com pesquisadores de universidades estrangeiras; ouvir sobre as suas pesquisas e, também, dar conhecimento sobre as pesquisas desenvolvidas no contexto do grupo BRIET. 
 
