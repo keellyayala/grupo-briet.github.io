@@ -8,6 +8,24 @@ title: Eventos
 
 ### II Seminário Internacional do Grupo BRIET
 
+O Grupo de Pesquisa Biblioteconomia, Recuperação de Informação, E-Science e Tecnologias (BRIET) do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) promove o Segundo Seminário Internacional do Grupo BRIET – 2023, entre os dias 30 e 31 deste mês.
+
+Otema deste ano será: “A Representação do Conhecimento e as Novas Formas de Comunicação Científica: Interlocuções Necessárias”. 
+
+O evento é gratuito e para participar, basta acessar o endereço: https://www.youtube.com/@grupobriet2538.
+
+Os Certificados serão emitidos para quem fizer inscrição no link: https://docs.google.com/forms/d/e/1FAIpQLSdYUeVOEWwReM3gRViBpTBeWj0cuoz455H0rVp0JfYotU7dQw/viewform
+
+O encontro é organizado pelo grupo e tem como objetivo interagir com pesquisadores de universidades estrangeiras; ouvir sobre as suas pesquisas e, também, dar conhecimento sobre as pesquisas desenvolvidas no contexto do grupo BRIET. 
+
+“Os discentes com pesquisa em andamento no âmbito do PPGCI – seja pesquisa de mestrado ou doutorado – apresentarão seus estudos logo após a palestra de cada um dos convidados internacionais a fim de receber sugestões”, esclarece a pesquisadora do Ibict e líder do Grupo BRIET, Luana Sales.
+
+De acordo com a pesquisadora Luana Sales, as temáticas irão abordar assuntos sobre: Modelagem do conhecimento; Ontologias, Dados FAIR, Interoperabilidade, Ciência Aberta, Reprodutibilidade e Objetos Digitais.
+
+Durante o seminário, será lançado o site do grupo onde serão postadas notícias sobre as pesquisas, em curso, desenvolvidas pelo grupo.
+
+#### Apresentações 
+
 - Dia 1 | Manhã | II Seminário Internacional do Grupo BRIET - Programado para 30 de mai. de 2023
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X4iPTTJaWi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
