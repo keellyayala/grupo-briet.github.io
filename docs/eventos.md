@@ -4,6 +4,16 @@ title: Eventos
 
 # Eventos
 
+## Organizados pelo Grupo BRIET
+
+- Dia 1 | Manhã | II Seminário Internacional do Grupo Briet - Programado para 30 de mai. de 2023
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4iPTTJaWi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+- Dia 1 | Tarde | II Seminário Internacional do Grupo Briet - Programado para 30 de mai. de 2023
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CerIDWKpdUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Seminários
 
 ### Seminário Nacional de Bibliotecas Universitárias - XXII
