@@ -1,7 +1,5 @@
 ---
 title: BRIET
-hide:
-  - navigation
 ---
 
 ![BRIET](briet.png){ width="520" }
