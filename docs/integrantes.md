@@ -7,8 +7,8 @@ title: Integrantes
 ## Coordenação
 | **Nome** | **Atuação** | **Instituição** |
 |---|---|---|
-| **Luana Farias Sales** [![orcid](:simple-orcid:)]( http://orcid.org/0000-0002-3614-2356) [![lattes](http://buscatextual.cnpq.br/buscatextual/images/v2/icone_lattes.png)](http://lattes.cnpq.br/9090064478702633) | Coordenação | PPGCI - IBICT 
-| **Luís Fernando Sayão** [![orcid](https://info.orcid.org/wp-content/uploads/2020/04/orcid_16x161.gif)](https://orcid.org/0000-0002-6970-0553) [![lattes](http://buscatextual.cnpq.br/buscatextual/images/v2/icone_lattes.png)](http://lattes.cnpq.br/3422623122948389) | Coordenação | CNEN - IBICT |
+| **Luana Farias Sales** [:simple-orcid:](http://orcid.org/0000-0002-3614-2356) [![lattes](http://buscatextual.cnpq.br/buscatextual/images/v2/icone_lattes.png)](http://lattes.cnpq.br/9090064478702633) | Coordenação | PPGCI - IBICT 
+| **Luís Fernando Sayão** [![orcid](https://info.orcid.org/wp-content/uploads/2020/04/orcid_16x.if)](https://orcid.org/0000-0002-6970-0553) [![lattes](http://buscatextual.cnpq.br/buscatextual/images/v2/icone_lattes.png)](http://lattes.cnpq.br/3422623122948389) | Coordenação | CNEN - IBICT |
 
 ## Doutorado
 | **Nome** | **Atuação** | **Instituição** |
