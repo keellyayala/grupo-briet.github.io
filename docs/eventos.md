@@ -6,15 +6,17 @@ title: Eventos
 
 ## Organizados pelo Grupo BRIET
 
-- Dia 1 | Manhã | II Seminário Internacional do Grupo Briet - Programado para 30 de mai. de 2023
+### II Seminário Internacional do Grupo BRIET
+
+- Dia 1 | Manhã | II Seminário Internacional do Grupo BRIET - Programado para 30 de mai. de 2023
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X4iPTTJaWi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-- Dia 1 | Tarde | II Seminário Internacional do Grupo Briet - Programado para 30 de mai. de 2023
+- Dia 1 | Tarde | II Seminário Internacional do Grupo BRIET - Programado para 30 de mai. de 2023
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CerIDWKpdUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Seminários
+## Outros eventos
 
 ### Seminário Nacional de Bibliotecas Universitárias - XXII
 
@@ -32,8 +34,6 @@ Além de tudo isso, o SNBU 2023 acontece em um ano muito especial e comemorativo
 
 A Comissão Organizadora, desde a concepção até a execução do SNBU 2023, fundamenta-se em valores com inovação, sustentabilidade e diversidade inovação, sustentabilidade e diversidade.
 
-## Conferências
-
 ### 14ª Conferência Lusófona de Ciência Aberta
 
 ![image](https://github.com/grupo-briet/grupo-briet.github.io/assets/20596966/cce10b58-3183-4ccd-a482-437834cae884){ width=500 }
@@ -43,8 +43,6 @@ Dando continuidade ao êxito das edições anteriores e mantendo a parceria desd
 A ConfOA pretende reunir as comunidades portuguesa, brasileira, bem como dos restantes países lusófonos, que desenvolvem atividades de investigação, desenvolvimento, gestão de serviços e definição de políticas relacionadas com a Ciência Aberta em todas as suas vertentes, nomeadamente o Acesso Aberto à Informação Científica e os Dados de Investigação. A ConfOA assume-se como o espaço privilegiado para promover a partilha, discussão e divulgação de conhecimentos, práticas e investigação sobre estas temáticas, em todas as suas dimensões e perspectivas.
 
 - Para mais informações acesse o site do evento, [https://confoa.rcaap.pt/2023/apresentacao/](https://confoa.rcaap.pt/2023/apresentacao/)
-
-## Congressos
 
 ### VII Congresso Brasileiro em Organização do Conhecimento
 
