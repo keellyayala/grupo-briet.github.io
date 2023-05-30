@@ -12,6 +12,7 @@ repo_name: grupo-briet.github.io
 repo_url: https://github.com/grupo-briet/grupo-briet.github.io
 edit_uri: edit/main/docs/
 
+## Tema
 theme:
   name: material
   custom_dir: overrides
@@ -173,8 +174,8 @@ extra:
 
 # Copyright
 copyright: >-
-    Copyright &copy; 2023 Grupo BRIET </br>
-    - <a href="#__consent">Altere as preferências de cookies.</a>
+    Copyright &copy; 2023 Grupo BRIET 
+    - <a href="#__consent">Alterar as preferências de cookies.</a>
       
 # CSS
 extra_css:
