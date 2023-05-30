@@ -1,23 +1,16 @@
 ---
 title: Eventos
-hide:
-  - navigation
 ---
 
 # Eventos
 
 ## Seminários
 
-### Seminário internacional sobre a Organização do Conhecimento
-
-* [Seminário internacional sobre a Organização do Conhecimento é promovido pelo grupo BRIET do Ibict](https://www.gov.br/ibict/pt-br/central-de-conteudos/noticias-ibict/junho-2022/seminario-internacional-sobre-a-organizacao-do-conhecimento-e-promovido-pelo-grupo-briet-do-ibict). O Grupo Biblioteconomia, Recuperação de Informação, E-Science e suas Teorias (BRIET) do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) promoveu um seminário internacional sobre “A Organização do Conhecimento e a Comunicação Científica: Diálogos Informacionais, aberto à comunidade científica”
-
-
 ### Seminário Nacional de Bibliotecas Universitárias - XXII
 
 Bibliotecas e sustentabilidade: inovação, ciência e sociedade
 
-![image](https://github.com/grupo-briet/grupo-briet.github.io/assets/126488864/fc6b0dab-237f-427c-82f2-70daedc29a30)
+![image](https://github.com/grupo-briet/grupo-briet.github.io/assets/126488864/fc6b0dab-237f-427c-82f2-70daedc29a30){ :style="height:300px"}
 
 Realizado desde 1978, o Seminário Nacional de Bibliotecas Universitárias chega em sua 22ª edição com o tema “Bibliotecas e sustentabilidade: inovação, ciência e sociedade”, sob organização da Biblioteca Universitária da Universidade Federal de Santa Catarina (BU UFSC) e da Federação Brasileira de Associações de Bibliotecários, Cientistas da Informação e Instituições (FEBAB). O evento acontecerá em Florianópolis, no CentroSul, de 28/11 a 01/12.
 
@@ -29,7 +22,6 @@ Além de tudo isso, o SNBU 2023 acontece em um ano muito especial e comemorativo
 
 A Comissão Organizadora, desde a concepção até a execução do SNBU 2023, fundamenta-se em valores com inovação, sustentabilidade e diversidade inovação, sustentabilidade e diversidade.
 
-
 ## Oficinas
 
 * [Ibict realiza oficina sobre o Visão na Semana do Bibliotecário do CRB-13](https://www.gov.br/ibict/pt-br/central-de-conteudos/noticias/2022/marco-2022/ibict-realiza-oficina-sobre-o-visao-na-semana-do-bibliotecario-do-crb-13). Evento busca contextualizar os conceitos associados ao sistema e abordar o trabalho do profissional da informação de forma mais próxima ao universo dos dados.
@@ -37,6 +29,8 @@ A Comissão Organizadora, desde a concepção até a execução do SNBU 2023, fu
 ## Conferências
 
 ### 14ª Conferência Lusófona de Ciência Aberta
+
+![image](https://github.com/grupo-briet/grupo-briet.github.io/assets/20596966/cce10b58-3183-4ccd-a482-437834cae884){ :style="height:300px"}
 
 Dando continuidade ao êxito das edições anteriores e mantendo a parceria desde 2010, o evento é organizado pelos Serviço de Documentação e Bibliotecas da Universidade do Minho ([USDB](http://www.sdum.uminho.pt/)), pela Fundação para a Ciência e a Tecnologia ([FCT](http://www.fct.pt/)) e pelo Instituto Brasileiro de Informação em Ciência e Tecnologia ([IBICT](http://www.ibict.br/)) e, conjuntamente, pela [Universidade Federal do Rio Grande do Norte](https://www.ufrn.br/).  A 14ª ConfOA decorrerá em Natal, Brasil, de 18 a 21 de setembro.
 
