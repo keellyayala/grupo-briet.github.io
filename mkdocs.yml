@@ -44,7 +44,7 @@ theme:
     logo: material/graph
     edit: material/pencil 
     view: material/eye
-  favicon: images/briet.png
+  favicon: briet.png
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
