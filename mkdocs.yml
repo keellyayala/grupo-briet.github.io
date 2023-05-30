@@ -14,6 +14,7 @@ edit_uri: edit/main/docs/
 
 theme:
   name: material
+  custom_dir: overrides
   include_search_page: false
   search_index_only: true
   highlightjs: true
@@ -81,6 +82,9 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_generator: !!python/name:materialx.emoji.to_svg
       emoji_index: !!python/name:materialx.emoji.twemoji
+      options:
+        custom_icons:
+          - overrides/.icons      
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
@@ -169,8 +173,7 @@ extra:
 
 # Copyright
 copyright: >-
-    Copyright &copy; 2023 Grupo BRIET 
-    
+    Copyright &copy; 2023 Grupo BRIET </br>
     - <a href="#__consent">Altere as preferências de cookies.</a>
       
 extra_javascript:
