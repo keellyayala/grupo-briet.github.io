@@ -10,7 +10,7 @@ title: Eventos
 
 Bibliotecas e sustentabilidade: inovação, ciência e sociedade
 
-![image](https://github.com/grupo-briet/grupo-briet.github.io/assets/126488864/fc6b0dab-237f-427c-82f2-70daedc29a30){: style="height:300px"}
+![image](https://github.com/grupo-briet/grupo-briet.github.io/assets/126488864/fc6b0dab-237f-427c-82f2-70daedc29a30){: style="height:150px"}
 
 Realizado desde 1978, o Seminário Nacional de Bibliotecas Universitárias chega em sua 22ª edição com o tema “Bibliotecas e sustentabilidade: inovação, ciência e sociedade”, sob organização da Biblioteca Universitária da Universidade Federal de Santa Catarina (BU UFSC) e da Federação Brasileira de Associações de Bibliotecários, Cientistas da Informação e Instituições (FEBAB). O evento acontecerá em Florianópolis, no CentroSul, de 28/11 a 01/12.
 
@@ -26,7 +26,7 @@ A Comissão Organizadora, desde a concepção até a execução do SNBU 2023, fu
 
 ### 14ª Conferência Lusófona de Ciência Aberta
 
-![image](https://github.com/grupo-briet/grupo-briet.github.io/assets/20596966/cce10b58-3183-4ccd-a482-437834cae884){: style="height:300px"}
+![image](https://github.com/grupo-briet/grupo-briet.github.io/assets/20596966/cce10b58-3183-4ccd-a482-437834cae884){: style="height:150px"}
 
 Dando continuidade ao êxito das edições anteriores e mantendo a parceria desde 2010, o evento é organizado pelos Serviço de Documentação e Bibliotecas da Universidade do Minho ([USDB](http://www.sdum.uminho.pt/)), pela Fundação para a Ciência e a Tecnologia ([FCT](http://www.fct.pt/)) e pelo Instituto Brasileiro de Informação em Ciência e Tecnologia ([IBICT](http://www.ibict.br/)) e, conjuntamente, pela [Universidade Federal do Rio Grande do Norte](https://www.ufrn.br/).  A 14ª ConfOA decorrerá em Natal, Brasil, de 18 a 21 de setembro.
 
@@ -38,7 +38,7 @@ Para mais informações acesse o site do evento, [https://confoa.rcaap.pt/2023/a
 
 ### VII Congresso Brasileiro em Organização do Conhecimento
 
-![image](https://github.com/grupo-briet/grupo-briet.github.io/assets/20596966/f56e5ad0-7f10-4d5c-8292-21e305510dd0){: style="height:300px"}
+![image](https://github.com/grupo-briet/grupo-briet.github.io/assets/20596966/f56e5ad0-7f10-4d5c-8292-21e305510dd0){: style="height:150px"}
 
 A comunidade da ISKO-Brasil irá se reunir nos dias 06 e 07 de junho de 2023, na cidade de Londrina, Paraná, Brasil, para refletir sobre a Organização e Representação do Conhecimento em diferentes contextos: desafios e perspectivas na era da datificação. O VII Congresso Brasileiro em Organização do Conhecimento terá como foco a discussão da organização e representação da informação e do conhecimento no contexto digital, em especial os impactos filosóficos, éticos e culturais das tecnologias nesse contexto.
 
