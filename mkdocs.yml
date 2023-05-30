@@ -41,7 +41,7 @@ theme:
   icon:
 #    logo: material/book-open-page-variant
 #    logo: material/alpha-b-box
-    logo: overrides/.icons/ai/briet.svg
+    logo: briet.png
     edit: material/pencil 
     view: material/eye
   favicon: images/briet.png
