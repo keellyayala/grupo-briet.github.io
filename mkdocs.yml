@@ -57,6 +57,7 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
+    - toc.integrate 
 # 404 page
   static_templates:
     - 404.html
@@ -101,9 +102,11 @@ markdown_extensions:
   - pymdownx.tilde
   - tables
      
+# Plugins
 plugins:
   - search:
-      lang: pt
+      lang: pt  
+      separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
 # Padrão do separador de busca: separator: '[\s\-\.]+' substituído por "\s"
 #      separator: '[\s]+'
 # 3 já é o padrão      min_search_length: 3
@@ -120,7 +123,6 @@ plugins:
   - social
   - minify:
       minify_html: true
-
 
 extra:
 #  disqus: briet
