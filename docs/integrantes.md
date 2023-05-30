@@ -2,7 +2,7 @@
 title: Integrantes
 ---
 
-# Integrantes do grupo BRIET
+# Integrantes do Grupo BRIET
 
 ## Coordenação
 | **Nome** | **Atuação** | **Instituição** |
