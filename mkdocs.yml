@@ -1,7 +1,11 @@
 site_name: BRIET
 site_url: https://grupo-briet.github.io/
-site_author: Colaboradores do Grupo BRIET
-site_description: Site do Grupo de Pesquisa BRIET \(grupo-briet\) - Instituto Brasileiro de Informação em Ciência e Tecnologia \(IBICT\) - Universidade Federal do Rio de Janeiro \(UFRJ\).
+site_author: Gabriel Macedo
+site_description: >-
+  Site do Grupo de Pesquisa BRIET - #grupo-briet - 
+  Instituto Brasileiro de Informação em Ciência e 
+  Tecnologia - IBICT - Universidade Federal do 
+  Rio de Janeiro - UFRJ
 
 # Repository
 repo_name: grupo-briet.github.io
@@ -119,7 +123,7 @@ plugins:
 
 
 extra:
-#  disqus: sardoc
+#  disqus: briet
   analytics:
     provider: google
     property: G-6YL8EL6LW5
@@ -136,7 +140,14 @@ extra:
 #          data: 0
 #          note: >- 
 #            Obrigado pelo seu feedback! Nos ajude a melhorar essa página
-#            preenchendo nosso <a href="..." target="_blank" rel="noopener">formulário de feedback</a>.    
+#            preenchendo nosso <a href="..." target="_blank" rel="noopener">formulário de feedback</a>.
+  consent:
+    title: Consentimento para cookie
+    description: >- 
+      Usamos cookies para reconhecer sua visista e preferências repetidas, bem
+      como para medir a eficácia do nosso conteúdo e se os usuários encontram
+      o que realmente procuram. Com seu consentimento você nos ajuda melhorar 
+      esse conteúdo.
   social:
     - icon: fontawesome/regular/envelope
       link: mailto:luanasales@ibict.br
@@ -154,6 +165,10 @@ extra:
 #      link: https://www.facebook.com/people/GRUPO-de-pesquisa-BRIET/100076347663252/
 #      name: Facebook
 
+# Copyright
+copyright: >-
+    Copyright &copy; 2023 Grupo BRIET - 
+    <a href="#__consent">Altere as preferências de cookies</a>
       
 extra_javascript:
   - https://unpkg.com/mermaid/dist/mermaid.min.js
