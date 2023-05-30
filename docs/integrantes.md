@@ -34,7 +34,7 @@ title: Integrantes
 | **Márcia Barcelos Gomes Silvares** | Mestrado  | UFRJ - PPGCI/IBICT |
 | **Edvaldo Wellington da Cunha Monteiro** | Mestrado | UFPA - PPGCI |
 | **Fernanda Vieira Costa Orlandini** [:ai-orcid:{ .orcid }](https://orcid.org/0000-0002-8303-1616) [:ai-lattes:{ .lattes }](https://lattes.cnpq.br/8390885273824357) | Mestrado | PPGB-UNIRIO  |
-| **Gabriel Santiago Macedo** [:ai-orcid:{ .orcid }](https://orcid.org/0000-0001-8845-7985) [:ai-lattes:{ .lattes }](https://lattes.cnpq.br/6066210315942522) [:material-github:](https://github.com/gabrielmacedo) | Mestrado | UFRJ - PPGCI/IBICT |
+| **Gabriel Santiago Macedo** [:ai-orcid:{ .orcid }](https://orcid.org/0000-0001-8845-7985) [:ai-lattes:{ .lattes }](https://lattes.cnpq.br/6066210315942522) [:fontawesome-brands-github-alt:](https://github.com/gabrielmacedo) | Mestrado | UFRJ - PPGCI/IBICT |
 | **Isaque Fontes Braga** [:ai-lattes:{ .lattes }](https://lattes.cnpq.br/9317823482235360) | Mestrado | PPGB-UNIRIO  |
 | **Larissa Alves da Silva** [:ai-orcid:{ .orcid }](https://orcid.org/0000-0002-0563-8172) [:ai-lattes:{ .lattes }](https://lattes.cnpq.br/5714545457389700) | Mestrado | PPGCI - ECA USP |
 | **Marcela Virginia Cavalcanti de Albuquerque** [:ai-lattes:{ .lattes }](https://lattes.cnpq.br/8109158524794021) | Mestrado | UFRJ - PPGCI/IBICT |
