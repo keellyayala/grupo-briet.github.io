@@ -8,7 +8,7 @@ title: Eventos
 
 ### II Seminário Internacional do Grupo BRIET
 
-![image](https://github.com/grupo-briet/grupo-briet.github.io/assets/20596966/a07b638b-bdd3-4c99-8957-32419ad5e6a2){ width=500 }
+![image](https://github.com/grupo-briet/grupo-briet.github.io/assets/20596966/812d8362-d25c-448a-b0d6-17466c6d79f6){ width=500 }
 
 O Grupo de Pesquisa Biblioteconomia, Recuperação de Informação, E-Science e Tecnologias (BRIET) do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) promove o Segundo Seminário Internacional do Grupo BRIET – 2023, entre os dias 30 e 31 deste mês.
 
