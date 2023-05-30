@@ -41,10 +41,10 @@ theme:
   icon:
 #    logo: material/book-open-page-variant
 #    logo: material/alpha-b-box
-    logo: ai/briet
+    logo: overrides/.icons/ai/briet.svg
     edit: material/pencil 
     view: material/eye
-  favicon: briet.svg
+  favicon: images/briet.png
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
