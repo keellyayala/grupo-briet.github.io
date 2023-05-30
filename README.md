@@ -1,6 +1,6 @@
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
-![BRIET](/docs/briet.png)
+![BRIET](<img width="500" alt="image" src="https://raw.githubusercontent.com/grupo-briet/grupo-briet.github.io/d79754ba209bdc8503776fd93e1064793ec71f48/docs/briet.png">)
 
 # BRIET: Biblioteconomia, Representação, Interoperabilidade, E-science e Tecnologia
 
