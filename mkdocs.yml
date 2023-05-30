@@ -146,7 +146,7 @@ extra:
   consent:
     title: Consentimento para uso de cookies
     description: >- 
-      Usamos cookies para reconhecer sua visista e identificar as suas
+      Usamos cookies para reconhecer sua visita e identificar suas
       preferências, além de medir a eficácia do conteúdo e da ferramenta 
       de busca. Seu consentimento nos ajuda compreender melhor o uso do 
       site.
@@ -169,8 +169,9 @@ extra:
 
 # Copyright
 copyright: >-
-    Copyright &copy; 2023 Grupo BRIET - 
-    <a href="#__consent">Altere as preferências de cookies.</a>
+    Copyright &copy; 2023 Grupo BRIET 
+    
+    - <a href="#__consent">Altere as preferências de cookies.</a>
       
 extra_javascript:
   - https://unpkg.com/mermaid/dist/mermaid.min.js
