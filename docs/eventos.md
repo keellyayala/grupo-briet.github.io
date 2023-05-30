@@ -22,10 +22,6 @@ Além de tudo isso, o SNBU 2023 acontece em um ano muito especial e comemorativo
 
 A Comissão Organizadora, desde a concepção até a execução do SNBU 2023, fundamenta-se em valores com inovação, sustentabilidade e diversidade inovação, sustentabilidade e diversidade.
 
-## Oficinas
-
-* [Ibict realiza oficina sobre o Visão na Semana do Bibliotecário do CRB-13](https://www.gov.br/ibict/pt-br/central-de-conteudos/noticias/2022/marco-2022/ibict-realiza-oficina-sobre-o-visao-na-semana-do-bibliotecario-do-crb-13). Evento busca contextualizar os conceitos associados ao sistema e abordar o trabalho do profissional da informação de forma mais próxima ao universo dos dados.
-
 ## Conferências
 
 ### 14ª Conferência Lusófona de Ciência Aberta
