@@ -142,15 +142,17 @@ extra:
       link: https://www.youtube.com/channel/UCwbvIl-TSZOSritOESaukQQ
       name: Youtube - BRIET
     - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/grupobriet
-      name: Instagram - BRIET
+#      link: https://www.instagram.com/grupobriet
+#      name: Instagram - BRIET
     - icon: fontawesome/brands/github
       link: https://grupo-briet.github.io/
       name: Github - BRIET
 #    - icon: fontawesome/brands/facebook
 #      link: https://www.facebook.com/people/GRUPO-de-pesquisa-BRIET/100076347663252/
+    - icon: Email
+      icon: fontawesome/regular/envelope
+      link: mailto:luanasales@ibict.br
       
-
 extra_javascript:
   - https://unpkg.com/mermaid/dist/mermaid.min.js
   - https://cdn.jsdelivr.net/npm/vega@5
