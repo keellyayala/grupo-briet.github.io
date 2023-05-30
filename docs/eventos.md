@@ -32,7 +32,7 @@ Dando continuidade ao êxito das edições anteriores e mantendo a parceria desd
 
 A ConfOA pretende reunir as comunidades portuguesa, brasileira, bem como dos restantes países lusófonos, que desenvolvem atividades de investigação, desenvolvimento, gestão de serviços e definição de políticas relacionadas com a Ciência Aberta em todas as suas vertentes, nomeadamente o Acesso Aberto à Informação Científica e os Dados de Investigação. A ConfOA assume-se como o espaço privilegiado para promover a partilha, discussão e divulgação de conhecimentos, práticas e investigação sobre estas temáticas, em todas as suas dimensões e perspectivas.
 
-Para mais informações acesse o site do evento, [https://confoa.rcaap.pt/2023/apresentacao/](https://confoa.rcaap.pt/2023/apresentacao/)
+- Para mais informações acesse o site do evento, [https://confoa.rcaap.pt/2023/apresentacao/](https://confoa.rcaap.pt/2023/apresentacao/)
 
 ## Congressos
 
@@ -42,4 +42,4 @@ Para mais informações acesse o site do evento, [https://confoa.rcaap.pt/2023/a
 
 A comunidade da ISKO-Brasil irá se reunir nos dias 06 e 07 de junho de 2023, na cidade de Londrina, Paraná, Brasil, para refletir sobre a Organização e Representação do Conhecimento em diferentes contextos: desafios e perspectivas na era da datificação. O VII Congresso Brasileiro em Organização do Conhecimento terá como foco a discussão da organização e representação da informação e do conhecimento no contexto digital, em especial os impactos filosóficos, éticos e culturais das tecnologias nesse contexto.
 
-Para mais informações acesse o site do evento: [https://www.even3.com.br/iskobrasil](https://www.even3.com.br/iskobrasil)
+- Para mais informações acesse o site do evento: [https://www.even3.com.br/iskobrasil](https://www.even3.com.br/iskobrasil)
