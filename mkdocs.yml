@@ -1,7 +1,7 @@
 site_name: BRIET
 site_url: https://grupo-briet.github.io/
 site_author: Colaboradores do Grupo BRIET
-site_description: Site do Grupo de Pesquisa BRIET.
+site_description: Site do Grupo de Pesquisa BRIET \(grupo-briet\) - Instituto Brasileiro de Informação em Ciência e Tecnologia \(IBICT\) - Universidade Federal do Rio de Janeiro \(UFRJ\).
 
 # Repository
 repo_name: grupo-briet.github.io
@@ -138,10 +138,13 @@ extra:
 #            Obrigado pelo seu feedback! Nos ajude a melhorar essa página
 #            preenchendo nosso <a href="..." target="_blank" rel="noopener">formulário de feedback</a>.    
   social:
+    - icon: fontawesome/regular/envelope
+      link: mailto:luanasales@ibict.br
+      name: Email - BRIET
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/channel/UCwbvIl-TSZOSritOESaukQQ
       name: Youtube - BRIET
-    - icon: fontawesome/brands/instagram
+#    - icon: fontawesome/brands/instagram
 #      link: https://www.instagram.com/grupobriet
 #      name: Instagram - BRIET
     - icon: fontawesome/brands/github
@@ -149,9 +152,8 @@ extra:
       name: Github - BRIET
 #    - icon: fontawesome/brands/facebook
 #      link: https://www.facebook.com/people/GRUPO-de-pesquisa-BRIET/100076347663252/
-    - icon: Email
-      icon: fontawesome/regular/envelope
-      link: mailto:luanasales@ibict.br
+#      name: Facebook
+
       
 extra_javascript:
   - https://unpkg.com/mermaid/dist/mermaid.min.js
