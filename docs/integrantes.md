@@ -7,7 +7,7 @@ title: Integrantes
 ## Coordenação
 | **Nome** | **Atuação** | **Instituição** |
 |---|---|---|
-| **Luana Farias Sales** [:ai-orcid:]{ .orcid }(http://orcid.org/0000-0002-3614-2356) [:ai-lattes:]{ .lattes }(http://lattes.cnpq.br/9090064478702633) | Coordenação | UFRJ - PPGCI/IBICT 
+| **Luana Farias Sales** [:ai-orcid:](http://orcid.org/0000-0002-3614-2356){ .orcid } [:ai-lattes:]{ .lattes }(http://lattes.cnpq.br/9090064478702633) | Coordenação | UFRJ - PPGCI/IBICT 
 | **Luís Fernando Sayão** [:ai-orcid:]{ .orcid }(https://orcid.org/0000-0002-6970-0553) [:ai-lattes:]{ .lattes }(http://lattes.cnpq.br/3422623122948389) | Coordenação | CNEN - PPGCI/IBICT |
 
 ## Doutorado
