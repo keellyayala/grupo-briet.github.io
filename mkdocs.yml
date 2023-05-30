@@ -144,12 +144,12 @@ extra:
 #            Obrigado pelo seu feedback! Nos ajude a melhorar essa página
 #            preenchendo nosso <a href="..." target="_blank" rel="noopener">formulário de feedback</a>.
   consent:
-    title: Consentimento para cookie
+    title: Consentimento para uso de cookies
     description: >- 
-      Usamos cookies para reconhecer sua visista e preferências repetidas, bem
-      como para medir a eficácia do nosso conteúdo e se os usuários encontram
-      o que realmente procuram. Com seu consentimento você nos ajuda melhorar 
-      esse conteúdo.
+      Usamos cookies para reconhecer sua visista e identificar as suas
+      preferências, além de medir a eficácia do conteúdo e da ferramenta 
+      de busca. Seu consentimento nos ajuda compreender melhor o uso do 
+      site.
   social:
     - icon: fontawesome/regular/envelope
       link: mailto:luanasales@ibict.br
@@ -170,7 +170,7 @@ extra:
 # Copyright
 copyright: >-
     Copyright &copy; 2023 Grupo BRIET - 
-    <a href="#__consent">Altere as preferências de cookies</a>
+    <a href="#__consent">Altere as preferências de cookies.</a>
       
 extra_javascript:
   - https://unpkg.com/mermaid/dist/mermaid.min.js
