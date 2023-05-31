@@ -1,9 +1,8 @@
 ---
-title: Publicações
+title: Produção Bibliográfica
 ---
 
-# Publicações
-
+# Produção Bibliográfica
 
 ## 2023
 
