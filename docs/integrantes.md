@@ -50,3 +50,4 @@ title: Integrantes
 | **Fernanda Pinheiro de Siqueira Landin**  [:ai-orcid:{ .orcid }](https://orcid.org/7477-0250-5739-4015) [:ai-lattes:{ .lattes }](https://lattes.cnpq.br/7477025057394015) | Colaboração |  |
 | **Luciana Lau** [:ai-orcid:{ .orcid }](https://orcid.org/0000-0002-9233-4715) [:ai-lattes:{ .lattes }](https://lattes.cnpq.br/4870381654584528) | Pesquisa | IBGE |
 | **Mara Angélica Petrocchi** [:ai-orcid:{ .orcid }](https://orcid.org/0000-0003-2791-3806) [:ai-lattes:{ .lattes }](https://lattes.cnpq.br/6305354276403145) | Colaboração | Embrapa |
+| **Maíra Murrieta Costa** [:ai-orcid:{ .orcid }](https://orcid.org/0000-0002-8324-2114) [:ai-lattes:{ .lattes }](https://lattes.cnpq.br/0580168449333057) | Pesquisa | MCTI |
