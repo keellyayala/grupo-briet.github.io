@@ -28,13 +28,17 @@ Durante o seminário, será lançado o site do grupo onde serão postadas notíc
 
 #### Apresentações 
 
-- Dia 1 | Manhã | II Seminário Internacional do Grupo BRIET - Programado para 30 de mai. de 2023
+- Dia 1 | Manhã | II Seminário Internacional do Grupo BRIET - 30 de mai. de 2023
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X4iPTTJaWi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-- Dia 1 | Tarde | II Seminário Internacional do Grupo BRIET - Programado para 30 de mai. de 2023
+- Dia 2 | Manhã | II Seminário Internacional do Grupo BRIET - 31 de mai. de 2023
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CerIDWKpdUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JIeUThMd5a8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+- Dia 2 | Tarde | II Seminário Internacional do Grupo BRIET - 31 de mai. de 2023
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rvpaRyrwork" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Outros eventos
 
