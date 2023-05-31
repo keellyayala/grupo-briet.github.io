@@ -74,6 +74,7 @@ markdown_extensions:
   - meta
   - md_in_html
   - toc:
+      slugify: !!python/object/apply:pymdownx.slugs.slugify {kwds: {case: lower}}
       permalink: '#'
   - pymdownx.arithmatex:
       generic: true
