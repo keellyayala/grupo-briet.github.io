@@ -17,5 +17,5 @@ jobs:
         with:
           key: ${{ github.ref }}
           path: .cache      
-      - run: pip install mkdocs-material mkdocs-macros-plugin mkdocs-mermaid2-plugin mkdocs-minify-plugin mkdocs-charts-plugin pillow cairosvg
+      - run: pip install mkdocs-material mkdocs-macros-plugin mkdocs-table-reader-plugin mkdocs-mermaid2-plugin mkdocs-minify-plugin mkdocs-charts-plugin pillow cairosvg
       - run: mkdocs gh-deploy --force
