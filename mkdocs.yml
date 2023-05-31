@@ -102,7 +102,9 @@ markdown_extensions:
           class: vegalite
           format: !!python/name:mkdocs_charts_plugin.fences.fence_vegalite  
   - pymdownx.tabbed:
-      alternate_style: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower      
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.magiclink
@@ -120,6 +122,7 @@ plugins:
 #  - git-revision-date
   - charts
   - macros
+  - table-reader
   - mermaid2:
       arguments:
         securityLevel: 'loose'      
