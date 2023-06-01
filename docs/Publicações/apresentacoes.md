@@ -10,11 +10,9 @@ title: Apresentações
 
 ## 2022
 
-- 
+-Aula ministrada na disciplina de Web Semântica do Programa de Pós-Graduação em Ciência da Informação - PPGCI do convênio Instituto Brasileiro de Informação em Ciência e Tecnologia - IBICT com a Universidade Federal do Rio de Janeiro - UFRJ com o tema Ïnteroperabilidade de repositórios" (slides:(https://drive.google.com/file/d/1V8SFoD8bH7vRObIYk7dR7tKH9IrcuksQ/view?usp=sharing))
+
 ## 2021
-
--Aula ministrada na disciplina de Web Semântica do Programa de Pós-Graduação em Ciência da Informação - PPGCI do convênio Instituto Brasileiro de Informação em Ciência e Tecnologia - IBICT com a Universidade Federal do Rio de Janeiro - UFRJ com o tema Ïnteroperabilidade de repositórios" (slides:((https://drive.google.com/file/d/1V8SFoD8bH7vRObIYk7dR7tKH9IrcuksQ/view?usp=sharing)) 
-
 
 - Palestra ministrada no Arquivo Nacional - AN - intitulada "Dados de Pesquisa como objeto da Arquivologia"- ([slides](https://drive.google.com/file/d/1OWnQHUFZtSgE8rBYJGx4DPJHd7aNP4WG/view?usp=sharing))
 -
