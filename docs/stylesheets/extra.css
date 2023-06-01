@@ -7,7 +7,7 @@
     color: #005195;
   }  
 
-.md-typeset {
+.md-typeset
 
 /* Progress Bars */
 .progress-label {
@@ -89,5 +89,4 @@
   100% {
     background-position: px2rem(120px) 0;
   }
-}
 }
