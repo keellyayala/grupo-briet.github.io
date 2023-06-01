@@ -10,7 +10,7 @@ title: Apresentações
 
 ## 2022
 
--Aula ministrada na disciplina de Web Semântica do Programa de Pós-Graduação em Ciência da Informação - PPGCI do convênio Instituto Brasileiro de Informação em Ciência e Tecnologia - IBICT com a Universidade Federal do Rio de Janeiro - UFRJ com o tema Ïnteroperabilidade de repositórios" ([slides](https://drive.google.com/file/d/1V8SFoD8bH7vRObIYk7dR7tKH9IrcuksQ/view?usp=sharing))
+- Aula ministrada na disciplina de Web Semântica do Programa de Pós-Graduação em Ciência da Informação - PPGCI do convênio Instituto Brasileiro de Informação em Ciência e Tecnologia - IBICT com a Universidade Federal do Rio de Janeiro - UFRJ com o tema Ïnteroperabilidade de repositórios" ([slides](https://drive.google.com/file/d/1V8SFoD8bH7vRObIYk7dR7tKH9IrcuksQ/view?usp=sharing))
 
 ## 2021
 
@@ -18,7 +18,7 @@ title: Apresentações
 
 ## 2019
 
-_ Palestra minsitrada no Curso de Biblioteconomia e Gestão - CBG - da Universidade Federal do Rio de Janeiro - UFRJ intitulada "Na onda dos dados" - ([slides](https://drive.google.com/file/d/16tG_nxdRfX1EQPGO07EA4OoKTnunPGyt/view?usp=sharing))
+- Palestra minsitrada no Curso de Biblioteconomia e Gestão - CBG - da Universidade Federal do Rio de Janeiro - UFRJ intitulada "Na onda dos dados" - ([slides](https://drive.google.com/file/d/16tG_nxdRfX1EQPGO07EA4OoKTnunPGyt/view?usp=sharing))
 
 
 
