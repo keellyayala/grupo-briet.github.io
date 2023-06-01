@@ -25,18 +25,18 @@ REVELANDO O LADO INVISÍVEL DA PESQUISA CIENTÍFICA: ESTUDO SOBRE OS OBSTÁCULOS
 
 - **REPOSITÓRIO DIGITAL CONFIÁVEL PARA DADOS DE PESQUISA NUCLEAR** (**2017 - 2019**)
 
-[=100% "100%"]
+[=100% "100%"]{: .thin}
 
 > Descrição: Os Institutos da Comissão Nacional de Energia Nuclear (CNEN), enquanto unidades de pesquisa, estão voltados para a pesquisa científica e tecnológica, para o ensino em nível de pós-graduação e para a inovação no domínio interdisciplinar das ciências nucleares. Como desdobramento de suas atividades acadêmicas e de pesquisa e desenvolvimento, esses institutos produzem intensamente informações e dados de pesquisa em formatos digitais. Esses recursos informacionais são parte da memória institucional da CNEN e se configuram como parte considerável do conhecimento produzido na área Nuclear. Esse conhecimento é explicitado em forma de relatórios, teses e dissertações, artigos, multimídia, apresentações, aulas, programas de computador, simulações, ambientes virtuais e coleções de dados, que estão registrados nos mais diversos formatos e mídias.
 
 - **UM CRIS PARA A ÁREA NUCLEAR** (**2017 - 2017**)
 
-[=100% "100%"]
+[=100% "100%"]{: .candystripe-animate}
 
 > Descrição: A crescente complexidade das atividades de pesquisa, a imensa geração de dados e informações e a necessidade de gerenciar processos propiciaram o surgimento infraestruturas tecnológicas com vistas ao tratamento e à recuperação dessas informações. Essas infraestruturas vêm sendo criadas não apenas para o armazenamento de dados, mas principalmente para gerenciar os processos e as etapas das atividades de pesquisa. Os benefícios são vistos não apenas pelos pesquisadores, mas pelos gestores, pelas agências de fomento, pelas empresas, bem como pelo público em geral. Essas infraestruturas permitem a contextualização das atividades científicas, otimizam os fluxos de trabalho, tornando a produção mais transparente, além de padronizá-las e permitir sua avaliação e reavaliação para o bom andamento das pesquisas, bem como para o reuso de dados e para a viabilização de novas descobertas.
 
 - **Modelo de política de curadoria de dados de pesquisa para o país** (**2016 - 2019**)
 
-[=100% "100%"]
+[=100% "100%"]{: .candystripe}
 
 > Descrição: A gestão de dados de pesquisa é considerada essencial para condução da pesquisa científica no século XXI, mas os dados só podem ser gerenciados e preservados ao longo do tempo e do espaço por meio de compromissos institucionais sustentáveis. O projeto tem como objetivo principal apresentar uma análise multifacetada dos elementos necessários para a definição de um modelo de curadoria digital para o país que considere os aspectos políticos, infraestrutura organizacional e tecnológica, pesquisa em curadoria digital, desenvolvimento de coleções de dados de pesquisa, formação de especialistas, sustentabilidade econômica, implicações sociais, éticas e legais e oferecimento de serviços. Será tomado como principal recurso metodológico o exame dos relatórios nacionais, regionais e internacionais sobre políticas de gestão de dados de pesquisa; desse universo, três relatórios foram considerados fundamentais no endereçamento de questões de curadoria de dados de pesquisa: os relatórios da National Science Fundation (NFS), do Digital Data Curation (DDC) e da Organização para a Cooperação e Desenvolvimento Econômico (OCDE).
