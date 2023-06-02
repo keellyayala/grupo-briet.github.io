@@ -187,13 +187,13 @@ copyright: >-
     <hr>
     <style>
     .nav {
-     list-style-type: none;
-     text-align: left;
+     text-align: center;
     }
     .nav li {
       display: inline-block;
       vertical-align: middle;
       padding: 1%;
+      margin: 2%;
     }
     </style>
     
