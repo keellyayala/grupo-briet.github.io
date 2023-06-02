@@ -183,10 +183,7 @@ extra:
 
 # Copyright
 copyright: >-
-    <p>Apoio: 
-    <a href="https://cnpq.br"><img src="https://www.gov.br/cnpq/pt-br/canais_atendimento/identidade-visual/CNPq_v2017_rgb_neg.png" alt="CNPQ" width="118" height="36"> <a href="https://www.faperj.br/"><img src="https://siteantigo.faperj.br/downloads/logomarcas/logo_faperj_branco.png" alt="FAPERJ" width="118" height="36"> <a href="https://ibict.br"><img src="https://antigo.ibict.br/images/logomarca-ibict/logo-Ibict.png" alt="IBICT" width="118" height="36"></p>
-    <hr>
-    <p>Copyright &copy; 2023 Grupo BRIET</p>
+    <p>Copyright &copy; 2023 Grupo BRIET. Apoio: <a href="https://cnpq.br"><img src="https://www.gov.br/cnpq/pt-br/canais_atendimento/identidade-visual/CNPq_v2017_rgb_neg.png" alt="CNPQ" width="118" height="36"> <a href="https://www.faperj.br/"><img src="https://siteantigo.faperj.br/downloads/logomarcas/logo_faperj_branco.png" alt="FAPERJ" width="118" height="36"> <a href="https://ibict.br"><img src="https://antigo.ibict.br/images/logomarca-ibict/logo-Ibict.png" alt="IBICT" width="118" height="36"></p>
       
 # CSS
 extra_css:
