@@ -139,7 +139,7 @@ plugins:
 
 extra:
 #  disqus: briet
-  
+  generator: false  
   analytics:
     provider: google
     property: G-6YL8EL6LW5
@@ -183,10 +183,9 @@ extra:
 
 # Copyright
 copyright: >-
-    <p>Apoio: <a href="https://cnpq.br"><img src="https://www.gov.br/cnpq/pt-br/canais_atendimento/identidade-visual/CNPq_v2017_rgb_neg.png" width="118" height="36"></p>
+    <p>Apoio: <a href="https://cnpq.br"><img src="https://www.gov.br/cnpq/pt-br/canais_atendimento/identidade-visual/CNPq_v2017_rgb_neg.png" alt="CNPQ" width="118" height="36">  <a href="https://cnpq.br"><img src="https://siteantigo.faperj.br/downloads/logomarcas/logo_faperj_branco.png" alt="FAPERJ" width="118" height="36"></p>
     <hr>
-    <p>Copyright &copy; 2023 Grupo BRIET</p>
-    <p>* <a href="#__consent">Alterar as preferências de cookies.</a></p>
+    <p>Copyright &copy; 2023 Grupo BRIET - <a href="#__consent">Alterar as preferências de cookies.</a></p>
       
       
 # CSS
