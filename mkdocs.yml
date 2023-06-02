@@ -187,13 +187,13 @@ copyright: >-
     <hr>
     <style>
     .nav {
-     text-align: center;
+     text-align: left;
     }
     .nav li {
       display: inline-block;
       vertical-align: middle;
       padding: 1%;
-      margin: 2%;
+      margin: 1%;
     }
     </style>
     
@@ -213,7 +213,6 @@ copyright: >-
         </a></li>
     </ul>
     </div>
-
       
 # CSS
 extra_css:
