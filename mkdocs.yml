@@ -182,9 +182,10 @@ extra:
 
 # Copyright
 copyright: >-
-    Apoio: ![CNPq](https://www.gov.br/cnpq/pt-br/canais_atendimento/identidade-visual/CNPq_v2017_rgb_neg.png){ width=50 } </br>
+    Apoio: <img src="https://www.gov.br/cnpq/pt-br/canais_atendimento/identidade-visual/CNPq_v2017_rgb_neg.png" width="118" height="36"></br>
     Copyright &copy; 2023 Grupo BRIET 
     - <a href="#__consent">Alterar as preferências de cookies.</a>
+      
       
 # CSS
 extra_css:
