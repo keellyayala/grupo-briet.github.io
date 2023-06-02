@@ -10,14 +10,14 @@
 
 // Copyright and theme information
 .md-copyright {
-  width: auto;
+  width: 100%;
   padding: px2rem(8px) 0;
   margin: auto px2rem(12px);
   font-size: px2rem(12.8px);
   color: var(--md-footer-fg-color--lighter);
   // [tablet portrait +]: Show copyright and social links in one line
   @include break-from-device(tablet portrait) {
-    width: auto;
+    width: 100%;
   }
   // Footer copyright highlight - this is the upper part of the copyright and
   // theme information, which will include a darker color than the theme link
