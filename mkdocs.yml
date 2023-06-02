@@ -186,11 +186,11 @@ copyright: >-
     <p>Copyright &copy; 2023 Grupo BRIET. 
     <hr>
     <div>
-    <span style="vertical-align: top;">Apoio:
-    <a href="https://cnpq.br"><img src="https://www.gov.br/cnpq/pt-br/canais_atendimento/identidade-visual/CNPq_v2017_rgb_neg.png" alt="CNPQ" width="118" height="36" style="display: inline-block; margin: 0 2px;">
-    <a href="https://www.faperj.br/"><img src="https://siteantigo.faperj.br/downloads/logomarcas/logo_faperj_branco.png" alt="FAPERJ" width="118" height="36" style="display: inline-block; margin: 0 2px;">
-    <a href="https://ibict.br"><img src="https://raw.githubusercontent.com/grupo-briet/grupo-briet.github.io/main/docs/ibict.png" alt="IBICT" width="118" height="36" style="display: inline-block; margin: 0 2px;">
-    <a href="https://ufrj.br"><img src="https://ufrj.br/wp-content/themes/arion/assets/images/ufrj-horizontal-simplificada-negativa.png" alt="UFRJ" width="118" height="36" style="display: inline-block; margin: 0 2px;">
+    <span style="vertical-align: top;">Apoio:</span>
+    <a href="https://cnpq.br"><img src="https://www.gov.br/cnpq/pt-br/canais_atendimento/identidade-visual/CNPq_v2017_rgb_neg.png" alt="CNPQ" width="118" height="36" style="display: inline-block; margin: 1%;">
+    <a href="https://www.faperj.br/"><img src="https://siteantigo.faperj.br/downloads/logomarcas/logo_faperj_branco.png" alt="FAPERJ" width="118" height="36" style="display: inline-block; margin: 1%;">
+    <a href="https://ibict.br"><img src="https://raw.githubusercontent.com/grupo-briet/grupo-briet.github.io/main/docs/ibict.png" alt="IBICT" width="118" height="36" style="display: inline-block; margin: 1%;">
+    <a href="https://ufrj.br"><img src="https://ufrj.br/wp-content/themes/arion/assets/images/ufrj-horizontal-simplificada-negativa.png" alt="UFRJ" width="118" height="36" style="display: inline-block; margin: 1%;">
     </div>
       
 # CSS
