@@ -186,7 +186,7 @@ copyright: >-
     <p>Copyright &copy; 2023 Grupo BRIET. 
     <hr>
     <style>
-    .footer-nav li {
+    .footer-nav {
       display: inline-block;
       vertical-align: middle;
       margin: 1%;
