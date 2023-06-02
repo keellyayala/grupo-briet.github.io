@@ -164,22 +164,22 @@ extra:
       preferências, além de medir a eficácia do conteúdo e da ferramenta 
       de busca. Seu consentimento nos ajuda a compreender melhor o uso do 
       site.
-#  social:
-#    - icon: fontawesome/regular/envelope
-#      link: mailto:luanasales@ibict.br
-#      name: Email - BRIET
-#    - icon: fontawesome/brands/youtube
-#      link: https://www.youtube.com/channel/UCwbvIl-TSZOSritOESaukQQ
-#      name: Youtube - BRIET
-#    - icon: fontawesome/brands/instagram
-#      link: https://www.instagram.com/grupobriet
-#      name: Instagram - BRIET
-#    - icon: fontawesome/brands/github
-#      link: https://grupo-briet.github.io/
-#      name: Github - BRIET
-#    - icon: fontawesome/brands/facebook
-#      link: https://www.facebook.com/people/GRUPO-de-pesquisa-BRIET/100076347663252/
-#      name: Facebook
+  social:
+    - icon: fontawesome/regular/envelope
+      link: mailto:luanasales@ibict.br
+      name: Email - BRIET
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCwbvIl-TSZOSritOESaukQQ
+      name: Youtube - BRIET
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/grupobriet
+      name: Instagram - BRIET
+    - icon: fontawesome/brands/github
+      link: https://grupo-briet.github.io/
+      name: Github - BRIET
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/people/GRUPO-de-pesquisa-BRIET/100076347663252/
+      name: Facebook
 
 # Copyright
 copyright: >-
