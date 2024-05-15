@@ -23,11 +23,14 @@ Aguardem para mais informações, estamos preparando uma super programação.
 
 Nos vemos em breve!
 
->**SAVE THE DATE:**
->III Seminário Internacional BRIET
->Tema: Gestão de Dados por domínio: aspectos representacionais do conhecimento e de Comunicação Científica
->Datas: 17 e 18/06/2024
->Horário: 14h às 18h
+!!! abstract "**SAVE THE DATE:**"
+    >III Seminário Internacional BRIET
+    >
+    >Tema: **Gestão de Dados por domínio: aspectos representacionais do conhecimento e de Comunicação Científica**
+    >
+    >Datas: 17 e 18/06/2024
+    >
+    >Horário: 14h às 18h
 
 !!! info "Certificados"
     Haverá emissão de certificado.
@@ -48,7 +51,3 @@ O tema deste ano será: “A Representação do Conhecimento e as Novas Formas d
 O encontro é organizado pelo grupo e tem como objetivo interagir com pesquisadores de universidades estrangeiras; ouvir sobre as suas pesquisas e, também, dar conhecimento sobre as pesquisas desenvolvidas no contexto do grupo BRIET. 
 
 “Os discentes com pesquisa em andamento no âmbito do PPGCI – seja pesquisa de mestrado ou doutorado – apresentarão seus estudos logo após a palestra de cada um dos convidados internacionais a fim de receber sugestões”, esclarece a pesquisadora do Ibict e líder do Grupo BRIET, Luana Sales.
-
-De acordo com a pesquisadora Luana Sales, as temáticas irão abordar assuntos sobre: Modelagem do conhecimento; Ontologias, Dados FAIR, Interoperabilidade, Ciência Aberta, Reprodutibilidade e Objetos Digitais.
-
-Durante o seminário, será lançado o site do grupo onde serão postadas notícias sobre as pesquisas, em curso, desenvolvidas pelo grupo.
