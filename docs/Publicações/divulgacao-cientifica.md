@@ -8,7 +8,7 @@ title: Divulgação Científica
 
 _Autor: **Larissa Alves** ([:ai-orcid:{ .orcid } https://orcid.org/0000-0002-0563-8172](https://orcid.org/0000-0002-0563-8172))_
 
-Você já se perguntou o que é gestão de dados de pesquisa? E, afinal, o que são os dados de pesquisa?
+**Você já se perguntou o que é gestão de dados de pesquisa? E, afinal, o que são os dados de pesquisa?**
 
 Para responder a esta última pergunta, em 2019 os pesquisadores Sayão e Sales definiram dado de pesquisa como sendo "todo e qualquer tipo de registro coletado, observado, gerado ou usado pela pesquisa científica, tratado e aceito como necessário para validar os resultados de pesquisa pela comunidade científica".[^1]
 
@@ -35,12 +35,3 @@ Conclui-se que os tratamentos de gestão vinculados aos dados de pesquisa viabil
 
 [^1]:
     SALES, L. F.; SAYÃO, L. F. Uma proposta de taxonomia para dados de pesquisa. Conhecimento em Ação, Rio de Janeiro, v. 4, n. 1, jan/jun. 2019. [https://revistas.ufrj.br/index.php/rca/article/view/26337](https://revistas.ufrj.br/index.php/rca/article/view/26337)
-
-[^2]: 
-    SAYÃO, L. F.; SALES, L. F. Afinal, o que é dado de pesquisa? Biblos: Revista do Instituto de Ciências Humanas e da Informação, Rio Grande, v. 34, n. 02, p. 32-51, jul./dez. 2020. ISSN 2236-7594. DOI: [https://doi.org/10.14295/biblos.v34i2.11875](https://periodicos.furg.br/biblos/article/view/11875)
-
-[^3]: 
-    SAYÃO, L. F.; SALES, L. Guia de Gestão de dados de pesquisa para bibliotecários e pesquisadores. Rio de Janeiro: CNEN, 2015.
-
-[^4]: 
-    SAYÃO, L. F.; SALES, L. F. Dados de pesquisa: quem ama cuida. Rio de Janeiro: CNEN, 2019. [https://livroaberto.ibict.br/bitstream/123456789/1083/2/cartilha%20dados%20de%20pesquisa.pdf](https://livroaberto.ibict.br/bitstream/123456789/1083/2/cartilha%20dados%20de%20pesquisa.pdf)
