@@ -6,7 +6,7 @@ title: Divulgação Científica
 
 ## Gestão de dados de pesquisa 
 
-_Autor: **Larissa Alves** ([ORCID: https://orcid.org/0000-0002-0563-8172](https://orcid.org/0000-0002-0563-8172))_
+_Autor: **Larissa Alves** ([:ai-orcid:{ .orcid } https://orcid.org/0000-0002-0563-8172](https://orcid.org/0000-0002-0563-8172))_
 
 Você já se perguntou o que é gestão de dados de pesquisa? E, afinal, o que são os dados de pesquisa?
 
