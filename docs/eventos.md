@@ -29,7 +29,7 @@ Nos vemos em breve!
 >Datas: 17 e 18/06/2024
 >Horário: 14h às 18h
 
-!!! Certificados
+!!! info "Certificados"
     Haverá emissão de certificado.
 
 
