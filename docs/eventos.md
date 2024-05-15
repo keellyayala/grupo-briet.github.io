@@ -6,6 +6,42 @@ title: Eventos
 
 ## Organizados pelo Grupo BRIET
 
+
+### III Seminário Internacional do Grupo BRIET
+
+![PHOTO-2024-05-14-15-58-25](https://github.com/grupo-briet/grupo-briet.github.io/assets/25485329/73b6c6f3-6b5e-407d-be15-745389499cfd)
+
+A edição do seminário deste ano, "Gestão de Dados por domínio: aspectos representacionais do conhecimento e de Comunicação Científica" ocorrerá nos dias 17 e 18 de junho de 2024.
+
+Desde 2022, estamos organizando esse evento com o intuito de promover um espaço rico de intercâmbio, debates e reflexões entre pesquisadoras e pesquisadores, que incluem também orientandas e orientandos do grupo.
+
+O propósito do Seminário é trazer para nossos pesquisadores uma parcela do conhecimento que está sendo produzido fora do Brasil sobre temas que têm proximidade com nossas áreas de estudo no grupo BRIET.
+
+
+> O Seminário será realizado de forma online, através do canal de Youtube do grupo BRIET (youtube.com/@grupobriet).
+>
+> A participação é gratuita e em breve será divulgada a programação! 📢
+
+
+Aguardem para mais informações, estamos preparando uma super programação.
+
+Nos vemos em breve!
+
+>**SAVE THE DATE:**
+>
+>>III Seminário Internacional BRIET
+>
+>Tema: Gestão de Dados por domínio: aspectos representacionais do conhecimento e de Comunicação Científica
+>
+>Datas: 17 e 18/06/2024
+>
+>Horário: 14h às 18h
+
+> [!NOTE]
+> Haverá emissão de certificado.
+
+
+
 ### II Seminário Internacional do Grupo BRIET
 
 ![image](https://github.com/grupo-briet/grupo-briet.github.io/assets/20596966/812d8362-d25c-448a-b0d6-17466c6d79f6){ width=500 }
