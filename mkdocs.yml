@@ -177,6 +177,9 @@ extra:
     - icon: fontawesome/brands/github
       link: https://grupo-briet.github.io/
       name: Github - BRIET
+    - icon: fontawesome/brands/linkedin
+      link:  https://www.linkedin.com/company/briet-biblioteconomia-representa%C3%A7%C3%A3o-interoperabilidade-e-science-e-tecnologia/
+      name: LinkedIn - BRIET
 #    - icon: fontawesome/brands/facebook
 #      link: https://www.facebook.com/people/GRUPO-de-pesquisa-BRIET/100076347663252/
 #      name: Facebook
